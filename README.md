@@ -5,3 +5,4 @@
 ## Notes
 
 - [arcus-memcached](./arcus-memcached/README.md)
+- [Rust](./Rust/README.md)
