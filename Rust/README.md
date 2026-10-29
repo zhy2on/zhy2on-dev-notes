@@ -9,3 +9,6 @@ arcus-vector(Rust로 작성한 arcus-memcached extension) PR을 리뷰하면서 
 3. [struct와 impl](./struct-and-impl.md)
 4. [수명(lifetime)](./lifetime.md)
 5. [FFI, unsafe, 패닉](./ffi-unsafe-panic.md)
+6. [참조와 원시 포인터](./references-and-pointers.md)
+7. [스레드와 동기화](./threads-and-sync.md)
+8. [enum과 에러 처리](./enum-and-errors.md)
